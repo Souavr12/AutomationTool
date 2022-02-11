@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AutomationTool",
+    "\\AutomationTool\\AutomationTool",
+    "\\AutomationTool\\AutomationTool\\Decorator",
+    "\\AutomationTool\\AutomationTool\\ElementFinder",
+    "\\AutomationTool\\AutomationTool\\Interfaces"
+  ],
+  "SelectedNode": "\\AutomationTool\\AutomationTool\\Decorator\\CombinedFilterDecorator.cs",
+  "PreviewInSolutionExplorer": false
+}
