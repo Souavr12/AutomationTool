@@ -3,10 +3,9 @@
     "",
     "\\AutomationTool",
     "\\AutomationTool\\AutomationTool",
-    "\\AutomationTool\\AutomationTool\\Decorator",
-    "\\AutomationTool\\AutomationTool\\ElementFinder",
-    "\\AutomationTool\\AutomationTool\\Interfaces"
+    "\\AutomationTool\\AutomationTool\\Interfaces",
+    "\\AutomationTool\\AutomationTool\\Searching"
   ],
-  "SelectedNode": "\\AutomationTool\\AutomationTool\\Decorator\\CombinedFilterDecorator.cs",
+  "SelectedNode": "\\AutomationTool\\AutomationTool\\AutomationTool.csproj",
   "PreviewInSolutionExplorer": false
 }

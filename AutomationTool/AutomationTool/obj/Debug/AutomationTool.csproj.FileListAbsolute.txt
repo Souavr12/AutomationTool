@@ -1,0 +1,4 @@
+C:\Users\Z00436ME\source\repos\Souavr12\AutomationTool\AutomationTool\AutomationTool\obj\Debug\AutomationTool.csproj.AssemblyReference.cache
+C:\Users\Z00436ME\source\repos\Souavr12\AutomationTool\AutomationTool\AutomationTool\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Z00436ME\source\repos\Souavr12\AutomationTool\AutomationTool\AutomationTool\obj\Debug\AutomationTool.csproj.ResolveComReference.cache
+C:\Users\Z00436ME\source\repos\Souavr12\AutomationTool\AutomationTool\AutomationTool\obj\Debug\AutomationTool.csproj.CoreCompileInputs.cache
